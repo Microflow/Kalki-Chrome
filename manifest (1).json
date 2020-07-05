@@ -1,0 +1,30 @@
+{
+	"manifest_version": 2,
+	"version": "1.0",
+	"name": "Kalki Chrome",
+	"description": "Window to the world",
+
+"icons":
+{
+"16": "images/kalki16.png", 
+"48": "images/kalki48.png",
+"128": "images/kalki128.png"
+},
+
+
+"browser_action":
+{
+"default_icon": "images/kalki48.png",
+"default_popup": "kalki.html"
+}
+
+
+}
+
+//{
+//“manifest_version”: 2, //required
+//“version”: “1.0”, //required
+//“name”: “Hello World!”, //required
+//“description”: “Learning how to make a chrome extension!”
+//}
+
