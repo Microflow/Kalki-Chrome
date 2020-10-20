@@ -8,6 +8,11 @@ https://drive.google.com/drive/folders/1Ph-6u3YrZ_GL7Loyp8ZhtwThACase9nk
 <img src="https://i.imgur.com/vn6ypON.jpg">
 </p>
 
+## Kalki Burning Chrome Landig Page is Here
+
+https://codepen.io/Teeke/pen/yLezNrE
+
+
 ## Todo
 
 Add ticker
