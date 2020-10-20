@@ -4,7 +4,9 @@
 
 https://drive.google.com/drive/folders/1Ph-6u3YrZ_GL7Loyp8ZhtwThACase9nk
 
-https://i.imgur.com/vn6ypON.jpg
+<p align="center">
+<img src="https://i.imgur.com/vn6ypON.jpg">
+</p>
 
 ## Todo
 
